@@ -41,3 +41,5 @@ Btw...That was an easy problem because we can say that this was a scanned docume
 ## Google Cloud Vision Tutorial
 
 When I wanted to use Google Cloud vision for the first time I couldn't start fast because theres were no easy tutorials on the net. So you can see my code and I think you will be able to understand it better.
+
+[*You can find the code here*](https://github.com/gaborvecsei/OCR-libraries/blob/master/src/GoogleDetection.java)
