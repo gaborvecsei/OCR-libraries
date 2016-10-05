@@ -2,6 +2,12 @@
 
 So I wanted to compare popular OCR libraries so we can see the pros and cons.
 
+## Update:
+
+I wrote a post about this topic at [my blog](https://gaborvecsei.wordpress.com/)
+
+**This work and the blog post was mentioned at [Rsipvision's Computer Vision News](http://www.rsipvision.com/ComputerVisionNews-2016October/#24)**
+
 ## Results:
 
 I tested with hungarian language because that's more complex than the english.
